@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 301cc0aabd5b9a449ba5f4296f860add
+timeCreated: 1485097588
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Liberator
+  fontNames:
+  - Liberator
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 29d48d769ed29e54abce72bea9c403fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

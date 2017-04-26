@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bdda82ac33faaab499a1e377405d03c6
+timeCreated: 1485100540
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mistral Std
+  fontNames:
+  - Mistral Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

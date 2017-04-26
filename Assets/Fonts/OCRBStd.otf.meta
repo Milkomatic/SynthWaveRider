@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4d68dc487110e134fa4d704d773bd95a
+timeCreated: 1485100756
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: OCR B Std
+  fontNames:
+  - OCR B Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

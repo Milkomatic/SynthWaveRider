@@ -1,0 +1,39 @@
+{
+	"map": [
+		{
+			"type":"Obstacle",
+			"lane": 1,
+			"xPos": 1
+		},
+		{
+			"type":"Obstacle",
+			"lane": 2,
+			"xPos": 2
+		},
+		{
+			"type":"Obstacle",
+			"lane": 3,
+			"xPos": 3
+		},
+		{
+			"type":"Obstacle",
+			"lane": 4,
+			"xPos": 4
+		},
+		{
+			"type":"Obstacle",
+			"lane": 5,
+			"xPos": 5
+		},
+		{
+			"type":"Obstacle",
+			"lane": 6,
+			"xPos": 6
+		},
+		{
+			"type":"Obstacle",
+			"lane": 7,
+			"xPos": 7
+		}
+	]
+}
